@@ -12,7 +12,10 @@
 
     <button
       @click="generateFizzBuzz"
-      class="w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded mb-4 transition-colors duration-300 ease-in-out"
+      class="w-full px-4 py-2 rounded mb-4 font-semibold
+        bg-green-600 hover:bg-green-700 text-white
+        transition-colors duration-300 shadow-md
+        active:scale-95 cursor-pointer"
     >
       Generar
     </button>
