@@ -25,3 +25,10 @@ FizzBuzz es un ejercicio algorítmico clásico que consiste en imprimir los núm
 ## 🖼️ Vista previa
 
 ![Vista previa de la app](./screenshot.png)
+
+---
+
+## 🔗 Demo en vivo
+
+[Haz clic aquí para ver la app funcionando](https://vue3-fizzbuzz-ts.vercel.app/)
+
